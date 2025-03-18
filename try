@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 try {
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 Connection con;
