@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 Class.forName(driverClass);
 } catch (IOException e) {
