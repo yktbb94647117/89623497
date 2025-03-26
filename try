@@ -1,3 +1,4 @@
+try {
 while (rs.next())
 public void fetch() throws SQLException, IOException
 String driverClass = "oracle.jdbc.driver.OracleDriver";
